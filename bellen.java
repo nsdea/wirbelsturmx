@@ -1,11 +1,6 @@
-// I'm just a Dutchman
-package defpackage;
-
 import basis.Leinwand;
 import basis.Stift;
 
-/* renamed from: Ball  reason: default package */
-/* loaded from: Breakout.jar:Ball.class */
 public class Ball {
     private Stift stift;
     private Leinwand leinwand;
