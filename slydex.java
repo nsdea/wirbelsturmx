@@ -1,12 +1,8 @@
-package defpackage;
-
 import basis.Hilfe;
 import basis.Leinwand;
 import basis.Maus;
 import basis.Stift;
 
-/* renamed from: Schieber  reason: default package */
-/* loaded from: Breakout.jar:Schieber.class */
 public class Schieber {
     private Ball ball = null;
     private Maus maus;
